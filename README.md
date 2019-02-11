@@ -9,4 +9,3 @@
 ## DeFiner Whitepaper
 [DeFiner: A Next-Generation Decentralized Lending Platform](https://github.com/DeFinerOrg/whitepaper/wiki/DeFiner-Whitepaper)
 
-(Move all information to wiki, please refer to wiki)
