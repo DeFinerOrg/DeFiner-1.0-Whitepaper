@@ -1,5 +1,5 @@
-## Background:Decentralized Financial System 
-[1:Basics of First Generation Blockchains and Applications in the Financial Payment System](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#basics-of-first-generation-blockchains-and-applications-in-the-financial-payment-system)
+## Background:The Decentralized Financial System 
+[1: Basics of First Generation Blockchains and Applications in the Financial Payment System](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#basics-of-first-generation-blockchains-and-applications-in-the-financial-payment-system)
 
 [2: Basics of Second Generation Blockchains and Applications in the Financial Intermediation System](https://github.com/DeFinerOrg/whitepaper/wiki/Background:-The-Decentralized-Financial-System#Basics-of-Second-Generation-Blockchains-and-Applications-in-the-Financial-Intermediation-System)
 
