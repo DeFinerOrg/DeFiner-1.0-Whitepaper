@@ -13,9 +13,11 @@ The EOS C++ implemenatation should include the exact same state machines with th
 
 ## DeFiner Blockchain API
 The DeFiner Blockchain API will remain the same as example of following regardless of the underlying blockchain is EOS or Ethereum.
+The two methods (from web browser and from RESTful API) of calling DeFiner Blockchain API should remain the same except for the initialization parameters to indicate the underlying blockchain technologies.
 
 * createBorrowerInitLoan
 * getLoanDetailsByLoanId
 * lenderSendsFund
 * ...
+
 
