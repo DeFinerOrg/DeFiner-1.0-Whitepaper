@@ -26,7 +26,7 @@ The two methods (from web browser and from RESTful API) of calling DeFiner Block
 The deployment process will be totally different between EOS and Etheruem. New service deployment process and tool chains would be built from ground.
 
 ## Implementation Details
-The following EOS smart contract example demostrates that Solidy contract can easiliy be "cloned" to be the C++ class.
+The following EOS smart contract example demostrates that Solidy contract can feasibly be "cloned" to be the C++ class.
 
 ~~~
 #include <eosiolib/eosio.hpp>
