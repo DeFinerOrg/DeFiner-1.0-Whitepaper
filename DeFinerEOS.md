@@ -9,7 +9,7 @@ Other toolchains in development by 3rd parties include Solidity, thus a viable s
 DeFiner choose C++ as the programming language to implement EOS smart contract based on the evaluation above.
 
 ## Behavior Compatibility
-The EOS C++ implemenatation should include the exact same state machines with the Solidity version.
+The EOS C++ implemenatation should implement the exact same state machines with the Solidity version.
 
 ## DeFiner Blockchain API
 The DeFiner Blockchain API will remain the same as example of following regardless of the underlying blockchain is EOS or Ethereum.
@@ -24,7 +24,7 @@ The two methods (from web browser and from RESTful API) of calling DeFiner Block
 The deployment process will be totally different between EOS and Etheruem. New service deployment process and tool chains would be built from ground.
 
 ## Implementation Details
-The following EOS smart contract example demostrates that Solidy contract can easiliy be "cloned" be the C++ class.
+The following EOS smart contract example demostrates that Solidy contract can easiliy be "cloned" to be the C++ class.
 
 ~~~
 #include <eosiolib/eosio.hpp>
