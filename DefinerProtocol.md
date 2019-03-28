@@ -39,4 +39,8 @@ the prior written consent of Definer Inc.
 |---------------------|----------------------------------------------------|
 | GET /loan/          | List all loans                                     |
 | GET /loan/{loan-id} | Return detail of the loan specified by the loan-id |
+| GET /loan/{loan-id}/state | Return current state specified by the loan-id |
 |                     |                                                    |
+
+## Borrowers
+
