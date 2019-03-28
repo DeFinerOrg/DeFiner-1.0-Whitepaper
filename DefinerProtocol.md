@@ -8,26 +8,27 @@ the prior written consent of Definer Inc.
 
 # High Level Operations
 ## Loans
-createBorrowerInitLoan
-createLenderInitLoan
-getLoanDetails
-getLoanDetailsByLoanId
-borrowerLoanTransferCollateral
-tokenTransfer
-loanCheckCollateral
-loanCheckFund
-lenderLoanTransferCollateral
-lenderTransferFund
-lenderAcceptLoan
-borrowerCancelsLoan
-lenderCancelsLoan
-borrowerWithdrawsEther
-borrowerMakesPayment
-borrowerReclaimCollateral
-lenderClaimCollateral
-borrowerAcceptsLoan
-getWholeContract
+* getLoanDetails
+* getWholeContract
+* getLoanDetailsByLoanId
 
-## Votes
-getCurrentProposal
-voteCurrentProposal
+## Borrower
+* createBorrowerInitLoan
+* borrowerLoanTransferCollateral
+* loanCheckCollateral
+* borrowerCancelsLoan
+* borrowerMakesPayment
+* borrowerReclaimCollateral
+
+## Lender
+* createLenderInitLoan
+* lenderLoanTransferCollateral
+* loanCheckFund
+* lenderTransferFund
+* lenderCancelsLoan
+* lenderClaimCollateral
+
+## ERC20
+* tokenTransfer
+* getCurrentProposal
+* voteCurrentProposal
