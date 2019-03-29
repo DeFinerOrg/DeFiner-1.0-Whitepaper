@@ -39,7 +39,24 @@ the prior written consent of Definer Inc.
 |---------------------|----------------------------------------------------|
 | GET /loan/          | List all loans                                     |
 | GET /loan/{loan-id} | Return detail of the loan specified by the loan-id |
+
+## Create Borrow Loans
+| API Endpoint        | Description                                        |
+|---------------------|----------------------------------------------------|
+| POST /loan?initiated=borrower          | create borrower initiated loan                                     |
 |                     |                                                    |
 
-## Borrowers
+## Create Lend Loans
+| API Endpoint        | Description                                        |
+|---------------------|----------------------------------------------------|
+| POST /loan?initiated=lender          | create lender initiated loan                                     |
+|                     |                                                    |
 
+## Loan Process
+| API Endpoint        | Description                                        |
+|---------------------|----------------------------------------------------|
+| PUT /loan/{loan-id}?action=transfer-collateral   | borrower transfer collateral to blockchain smart contract . |
+| PUT /loan/{loan-id}?action=confirm-collateral    | confirm collateral transfered to blockchain                 |
+| PUT /loan/{loan-id}?action=transfer-fund         | lender transfer fund to blockchain smart contract           |
+| PUT /loan/{loan-id}?action=confirm-fund          | lender confirm fund transferred to blockchain smart contract|
+|                     |                                                    |
