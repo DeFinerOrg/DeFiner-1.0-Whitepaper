@@ -37,7 +37,6 @@ the prior written consent of Definer Inc.
 ## Loans
 | API Endpoint        | Description                                        |
 |---------------------|----------------------------------------------------|
-| GET /loan/          | List all loans                                     |
 | GET /loan/{loan-id} | Return detail of the loan specified by the loan-id |
 
 ## Create Borrow Loans
