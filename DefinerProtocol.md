@@ -6,6 +6,11 @@ the prior written consent of Definer Inc.
 
 # DeFiner Protocol
 
+## Key Exchange Flow
+Client and server establish key trust through the following ways
+* Register keys through server webapp (build from scratch) and shared in enterprise trust boundary
+* Register keys through 3rd party key management service (e.g. coinbase, bitgo, upvest)
+
 # High Level Operations
 ## Loans
 * getLoanDetails
