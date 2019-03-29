@@ -55,8 +55,11 @@ the prior written consent of Definer Inc.
 ## Loan Process
 | API Endpoint        | Description                                        |
 |---------------------|----------------------------------------------------|
-| PUT /loan/{loan-id}?action=transfer-collateral   | borrower transfer collateral to blockchain smart contract . |
-| PUT /loan/{loan-id}?action=confirm-collateral    | confirm collateral transfered to blockchain                 |
-| PUT /loan/{loan-id}?action=transfer-fund         | lender transfer fund to blockchain smart contract           |
-| PUT /loan/{loan-id}?action=confirm-fund          | lender confirm fund transferred to blockchain smart contract|
+| PUT /loan/{loan-id}?action=transfer-collateral   | borrower transfers collateral to blockchain smart contract   |
+| PUT /loan/{loan-id}?action=confirm-collateral    | borrower confirms collateral transfered to blockchain        |
+| PUT /loan/{loan-id}?action=transfer-fund         | lender transfers fund to blockchain smart contract           |
+| PUT /loan/{loan-id}?action=confirm-fund          | lender confirms fund transferred to blockchain smart contract|
+| PUT /loan/{loan-id}?action=make-payment          | borrower transfers installment payments to lender            |
+| PUT /loan/{loan-id}?action=cancel                | lender or borrower cancels the request and got refund from smart contract|
+| PUT /loan/{loan-id}?action=collect-collateral    | lender or borrower collects collateral under valid condition|
 |                     |                                                    |
