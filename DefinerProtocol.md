@@ -48,7 +48,6 @@ Client and server establish key trust through the following ways
 | API Endpoint        | Description                                        |
 |---------------------|----------------------------------------------------|
 | POST /loan          | create borrower initiated loan                     |
-|
 ~~~
 {
    'Initiated' : 'Borrower'
