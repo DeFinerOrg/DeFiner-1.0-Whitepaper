@@ -5,6 +5,8 @@ information of the intended recipient and may not be used, published or redistri
 the prior written consent of Definer Inc.
 
 # DeFiner Protocol
+## Specificiation
+https://app.swaggerhub.com/apis-docs/definer/blockchain/1.0.0
 
 ## Key Exchange Flow
 Client and server establish key trust through the following ways
