@@ -18,7 +18,7 @@ The follow is what the DeFiner Blockchain API uses to grant a tenant access to t
 
 Before being able to sign any requests as a tenant, a tenant must register an public key through DeFiner by contracting DeFiner account management personnel. This process is designed to be seperated from the API direct access, so that we exchange sensitive keys information in a secure channel.
 
-Upon creating an account, tenant must generate a public/private key pair and send the public key to DeFiner.
+Upon creating an account, tenant must generate a public/private key pair and provide the public key to DeFiner account management personnel.
 DeFiner will only store the public key for a tenant.
 
 A tenant must remember the following information to make future API request.
