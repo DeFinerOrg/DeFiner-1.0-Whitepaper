@@ -30,7 +30,7 @@ All future requests should be encrypted using the tenantPrivateKey and provide t
 The purpose for this mechenism ensures the following properties while tenants make API requests:
 * It guarantees DeFiner receives a request made by a valid tenant
 * It guarantees a request is made by the tenant who sent it.
-* It guarantees the content of the request is created by the tenant who sent it and not forgable during transportation.
+* It guarantees the content of the request is created by the tenant who sent it and unforgeable during transportation.
 * It raises the attack difficulty for the high computing cost for encrypting using private key.
 
 Blockchain operation is expected to be a not high volume but secure transaction, this sophiscicate approach making requests securelly ensures the trust between tenants and DeFiner for all API access.
