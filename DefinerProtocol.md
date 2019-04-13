@@ -19,7 +19,7 @@ A tenant must remember the following information to make future API request.
 * tenantId
 * tenantPrivateKey
 
-All future requests should be encrypted using the tenantPrivateKey.
+All future requests should be encrypted using the tenantPrivateKey and provide the tenantId for DeFiner to locate associated public key for decryption.
 
 # High Level Operations
 ## Loans
