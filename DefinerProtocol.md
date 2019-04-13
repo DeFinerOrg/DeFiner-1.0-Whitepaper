@@ -13,9 +13,11 @@ https://app.swaggerhub.com/apis-docs/definer/blockchain/1.0.0
 Before being able to sign any requests as a tenant, you must register an public key through DeFiner.
 Upon creating an account, tenant must generate a public/private key pair and send the public key to DeFiner.
 DeFiner will only store the public key for a tenant.
+
 A tenant must remember the following information to make future API request.
 * tenantId
 * tenantPrivateKey
+
 All future requests should be encrypted using the tenantPrivateKey.
 
 # High Level Operations
