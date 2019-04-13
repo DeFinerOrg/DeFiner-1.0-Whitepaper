@@ -14,7 +14,7 @@ We evaluated OAuth2 and choose to not using it for two major reasons:
 * the following approach is simplier to implement for client application
 * username/password concept is not coupled in this API model for wider adaptions.
 
-The follow is what the DeFiner Blockchain API uses to grant a tenant access to the API.
+The following is what the DeFiner Blockchain API uses to grant a tenant access to the API.
 
 Before being able to sign any requests as a tenant, a tenant must register an public key through DeFiner by contracting DeFiner account management personnel. This process is designed to be seperated from the API direct access, so that we exchange sensitive keys information in a secure channel.
 
