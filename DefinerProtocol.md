@@ -8,10 +8,15 @@ the prior written consent of Definer Inc.
 ## Specificiation
 https://app.swaggerhub.com/apis-docs/definer/blockchain/1.0.0
 
-## Key Exchange Flow
-Client and server establish key trust through the following ways
-* Register keys through server webapp (build from scratch) and shared in enterprise trust boundary
-* Register keys through 3rd party key management service (e.g. coinbase, bitgo, upvest)
+## Authentication
+### API Key Authentication
+Before being able to sign any requests as a tenant, you must register an public key through DeFiner.
+Upon creating an account, tenant must generate a public/private key pair and send the public key to DeFiner.
+DeFiner will only store the public key for a tenant.
+A tenant must remember the following information to make future API request.
+* tenantId
+* tenantPrivateKey
+All future requests should be encrypted using the tenantPrivateKey.
 
 # High Level Operations
 ## Loans
