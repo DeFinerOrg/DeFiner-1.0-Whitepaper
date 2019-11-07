@@ -7,7 +7,8 @@ CherryTree as Charity DeFi protocol to serve as a standard for charity organizat
 
 ## Organization - Verifiable Claim
 W3C has published standard for verifable claims <sup>[1]</sup> . This protocol hereby inherite similar approach to conduct trustable verification.
-![W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/diagrams/ecosystem.svg "W3C Verifiable Credentials Data Model")
+
+<img src="https://www.w3.org/TR/vc-data-model/diagrams/ecosystem.svg" alt="W3C Verifiable Credentials Data Model" width="700"/>
 
 ### Authority
 #### Government
