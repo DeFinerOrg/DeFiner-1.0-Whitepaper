@@ -4,13 +4,11 @@
 ## Overview
 ![Overview](https://raw.githubusercontent.com/DeFinerOrg/Whitepaper/master/images/DeFiner-CharityBlock%20Integration.png "Overview")
 
-## CharityBlock
-
-## DeFiner
-
 ## Verifiable Claim
+### CharityBlock
 
 ## Earning by DeFi
+## DeFiner
 
 ##
 
