@@ -11,8 +11,8 @@ W3C has published standard for verifable claims <sup>[1]</sup> . This protocol h
 
 <img src="https://www.w3.org/TR/vc-data-model/diagrams/ecosystem.svg" alt="W3C Verifiable Credentials Data Model" width="700"/>
 
-## Law Protection Boundaries
-
+## Charity Boundaries
+Design guideline: once fund got transferred into the charity boundary, the design shall enforce funds circulated inside the boundaries protected by law. This enforcement shall be agreed and signed off by all implementors of this protocol.
 
 ## Authority
 ### Government
