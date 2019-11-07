@@ -2,6 +2,7 @@
 # Secure Integral Solution For Charity DeFi
 
 ## Overview
+![Overview](https://raw.githubusercontent.com/DeFinerOrg/Whitepaper/master/images/DeFiner-CharityBlock%20Integration.png "Overview")
 
 ## CharityBlock
 
@@ -9,7 +10,7 @@
 
 ## Verifiable Claim
 
-## Earning by DeFiner
+## Earning by DeFi
 
 ##
 
