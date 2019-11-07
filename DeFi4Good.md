@@ -4,7 +4,7 @@ CherryTree as Charity DeFi protocol to serve as a standard for charity organizat
 The sole goal of CherryTree is to compliant to law as live or die decision filter. All design and decision made by architects and implementors shall apply this single golden decision filter.
 
 ## Overview
-![Overview](https://raw.githubusercontent.com/DeFinerOrg/Whitepaper/master/images/DeFiner-CharityBlock%20Integration.png "Overview")
+![Overview](https://raw.githubusercontent.com/DeFinerOrg/Whitepaper/master/images/CherryTreeDesign.png "Overview")
 
 ## Organization - Verifiable Claim
 W3C has published standard for verifable claims <sup>[1]</sup> . This protocol hereby inherite similar approach to conduct trustable verification.
