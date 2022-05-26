@@ -7,5 +7,5 @@
 
 
 ## [DeFiner Whitepaper](https://github.com/DeFinerOrg/whitepaper/wiki/DeFiner-Whitepaper)
-[DeFiner: A Next-Generation Decentralized Lending Platform](https://github.com/DeFinerOrg/whitepaper/wiki/DeFiner-Whitepaper)
+[DeFiner: A Next-Generation Decentralized Lending Platform](https://github.com/DeFinerOrg/DeFiner-1.0-Whitepaper/wiki/DeFiner-1.0-Whitepaper)
 
